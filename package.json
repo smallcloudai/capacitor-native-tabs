@@ -12,7 +12,8 @@
     "dist/",
     "ios/Sources",
     "ios/Tests",
-    "Package.swift"
+    "Package.swift",
+    "*.podspec"
   ],
   "author": "SMALL MAGELLANIC CLOUD AI LTD",
   "license": "MIT",

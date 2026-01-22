@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Swift
+.build/
+Package.resolved
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# iOS
+*.pbxuser
+*.perspectivev3
+xcuserdata/
+*.xcworkspace/xcshareddata/
+DerivedData/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+*.apk
+*.ap_
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.log
+.env
+.env.local

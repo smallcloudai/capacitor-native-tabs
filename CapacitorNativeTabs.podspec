@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://flexus.team'
   s.authors = { 'SMALL MAGELLANIC CLOUD AI LTD' => 'info@smallcloud.tech' }
   s.source = { git: 'https://github.com/smallcloud/flexus', tag: s.version.to_s }
-  s.platform = :ios, 14.0
+  s.platform = :ios, 15.6
   s.source_files = "#{prefix}ios/Sources/**/*.swift"
   s.requires_arc = true
   s.swift_version = '5.1'
